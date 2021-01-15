@@ -32,7 +32,7 @@ int main()
     }
     else
     {
-        printf("Invalid Operator\n");
+        printf("Invalid Operator \n");
     }
 
     return 0;
