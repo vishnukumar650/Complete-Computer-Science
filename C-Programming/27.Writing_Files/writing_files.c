@@ -5,9 +5,9 @@ int main()
 {
     FILE *fpointer = fopen("employees.txt", "w"); // file modes - w(write), r(read), a(append)
 
-    fprintf(fpointer, "Mark Tim\nSam Billings\nRam Manoj\n");
+    fprintf(fpointer, "Mark Tim, Salesman\nSam Billings, Analyst\nRam Manoj, Programmer\n");
 
-    fprintf(fpointer, "Narine Make\nSunder Raj\nRock Kayne");
+    fprintf(fpointer, "Narine Make, Typist\nSunder Raj, Singer\nRock Kayne, Plumber");
 
     fclose(fpointer);
 
