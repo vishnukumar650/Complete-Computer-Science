@@ -1,0 +1,18 @@
+Fundamental Data Types (primitive, built-in)
+    Boolean type (bool)
+        bool x; // can have either true or false - 1 byte
+    Character type(char)
+        char 
+    Integer type(int,long)
+    Floating Points(float,double)
+
+Derived Data Types 
+    pointers
+    arrays
+    reference types
+
+User Defined Data Types
+    structures
+    classes
+    enums
+    typedef

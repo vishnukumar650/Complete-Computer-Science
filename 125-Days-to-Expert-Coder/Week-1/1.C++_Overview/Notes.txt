@@ -1,0 +1,81 @@
+C++ is a general-purpose programming language with a bias towards systems programming that
+
+    -> is a better C
+    -> supports data abstraction
+    -> supports object-oriented programming
+    -> supports generic programming.
+
+
+Applications of C++:
+    * 12D Solutions: Computer Aided Design system for surveying, civil engineering, and more.
+    * Adobe Systems: All major applications are developed in C++:
+        ->  Photoshop & ImageReady,
+        ->  Illustrator,
+        ->  Acrobat,
+        ->  InDesign,
+        ->  GoLive,
+        ->  Frame (mostly C, some C++)
+    * Maya: Maya has been used in the production of just about every major film involving computer-generated effects since its release, including Star Wars Episode I, Spider-Man, Lord of the Rings, Stuart Little, etc.
+    * Amazon: Software for large-scale e-commerce.
+    * Apple: OS X is written in a mix of language, but a few important parts are written in C++. The two most interesting are
+        ->  Finder
+        ->  IOKit device drivers. (IOKit is the only place where we use C++ in the kernel, though.)
+    * Amdocs: It's main telecom billing module (Enabler) is completely in C++. They are world no.1 BSS vendor for telecom.
+    * Autodesk: A large number of major number of application in the CAD domain.
+    * D E Shaw: Financial analysis and trading software.
+    * Dassault Systems: Catia v5; leading CAD software, on which was conceived all recent Airbus planes (A380, ...). Also, Boeing 787 software. Entirely written in C++, using STL.
+    * Facebook: Several high-performance and high-reliability components.
+    * Google: web search engine, etc.
+        -> Chromium browser.
+        -> Google file system.
+        -> MapReduce large cluster data processing.
+
+
+Tokens: Smallest element of a program that a compiler can understand
+    -> Keywords
+    -> Identifiers
+    -> Constants
+    -> Strings
+    -> Special Symbols
+    -> Operators
+
+
+Identifiers: Identifiers refer to the name of variables, classes, structures, functions, arrays given by the programmer
+
+
+Rules of declaring an Identifier:
+    -> First character must be an alphabet (or underscore)
+    -> Must consist of only letters, digits or underscore
+    -> Cannot use a Keyword
+    -> Must not contain whitespace
+    -> They are case sensitive
+
+
+Keywords: Keywords have fixed meaning and these meanings cannot be changed.
+
+
+Constants: Constants refer to fixed values that do not change during execution of the program.
+    Eg: const int x = 20;
+
+
+Special Symbols
+    * [] {} () , # ~ . ;
+
+
+Operators
+    * Unary Operator
+    * Binary Operator
+    * Ternary Operator
+
+
+String: Strings are nothing but array of characters.
+    char x[15] = "vishnukumar650"
+    char x[] = "vishnukumar650"
+    char x[] = {'v','i','s','h','n','u'}
+
+
+Declaration vs Definition
+    int x; // declaring a variable
+    int x = 20 // declaring a variable and initializing it
+    extern int x // declaring 
+    int fun(); // function definition
