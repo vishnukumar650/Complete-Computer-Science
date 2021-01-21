@@ -1,4 +1,4 @@
-## Flexbox
+## Flexbox Reference
 
 - [Practice Flexbox Like an Artist](https://mastery.games/flexboxzombies/)
 - [A CSS Flexbox Primer](https://alligator.io/css/flexbox-primer/)
@@ -7,8 +7,11 @@
 - [Common CSS Flexbox Layout Patterns with Example Code](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 - [Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [A simple visual cheatsheet for flexbox](https://flexbox.malven.co/)
+- [MDN's Flexbox Guide](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [Flexbox - Ultimate Cheatsheet](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
+- [Master Flexbox in CSS](https://www.webtips.dev/flexbox-in-css)
 - [Visual Guide to CSS Flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+- [Learn Flexbox with Webflow](http://flexboxgame.com/)
 - [Flexbox by CSS Reference](https://cssreference.io/flexbox/)
 - [10 Step Guide to Flexbox](https://medium.com/@ensallee/a-10-step-guide-to-flexbox-fa00e7b03bf7)
 - [Build Smart Layouts with Flexbox](https://www.toptal.com/front-end/how-to-build-css-only-smart-layouts-with-flexbox)
