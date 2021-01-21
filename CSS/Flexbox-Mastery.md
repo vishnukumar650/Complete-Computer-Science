@@ -1,7 +1,9 @@
-##Flexbox
+## Flexbox
 
 - [Practice Flexbox Like an Artist](https://mastery.games/flexboxzombies/)
+- [A CSS Flexbox Primer](https://alligator.io/css/flexbox-primer/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Flexbox Tutorial](https://vegibit.com/css-flexbox-tutorial/)
 - [Common CSS Flexbox Layout Patterns with Example Code](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 - [Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [A simple visual cheatsheet for flexbox](https://flexbox.malven.co/)
@@ -11,8 +13,10 @@
 - [10 Step Guide to Flexbox](https://medium.com/@ensallee/a-10-step-guide-to-flexbox-fa00e7b03bf7)
 - [Build Smart Layouts with Flexbox](https://www.toptal.com/front-end/how-to-build-css-only-smart-layouts-with-flexbox)
 - [Flexbox cheatsheet in 2021](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl)
+- [Master CSS Flexbox in 5 Simple Steps](https://webdesignerwall.com/tutorials/master-css-flexbox-5-simple-steps)
+- [The ultimate 10min. to master CSS Flexbox!](https://dev.to/abhiprojectz/the-ultimate-10min-to-master-css-flexbox-3hg3)
 
-##Flexbox Playgrounds
+## Flexbox Playgrounds
 
 - [Flexbox Playground 1](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
 - [Flexbox Playground 2](https://codepen.io/enxaneta/full/adLPwv/)
