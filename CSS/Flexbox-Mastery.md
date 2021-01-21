@@ -1,0 +1,31 @@
+##Flexbox
+
+- [Practice Flexbox Like an Artist](https://mastery.games/flexboxzombies/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Common CSS Flexbox Layout Patterns with Example Code](https://tobiasahlin.com/blog/common-flexbox-patterns/)
+- [Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [A simple visual cheatsheet for flexbox](https://flexbox.malven.co/)
+- [Flexbox - Ultimate Cheatsheet](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
+- [Visual Guide to CSS Flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+- [Flexbox by CSS Reference](https://cssreference.io/flexbox/)
+- [10 Step Guide to Flexbox](https://medium.com/@ensallee/a-10-step-guide-to-flexbox-fa00e7b03bf7)
+- [Build Smart Layouts with Flexbox](https://www.toptal.com/front-end/how-to-build-css-only-smart-layouts-with-flexbox)
+- [Flexbox cheatsheet in 2021](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl)
+
+##Flexbox Playgrounds
+
+- [Flexbox Playground 1](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
+- [Flexbox Playground 2](https://codepen.io/enxaneta/full/adLPwv/)
+- [Flexbox Playground 3](http://www.flexboxdefense.com/)
+- [Flexbox Playground 4](https://flexboxfroggy.com/)
+- [Flexbox Playground 5](https://flexbox.tech/)
+- [Flexbox Playground 6](https://css-playground.com/view/19/flexbox-playground)
+- [Flexbox Playground 7](https://loading.io/flexbox/)
+- [Flexbox Playground 8](https://the-echoplex.net/flexyboxes/)
+- [Flexbox Playground 9](https://demo.agektmr.com/flexbox/)
+- [Flexbox Playground 10](https://coveloping.com/tools/flexbox-playground)
+- [Flexbox Playground 11](https://flexbox.help/)
+- [Flexbox Playground 12](https://www.outpan.com/app/1b970b008f/flexbox-playground)
+- [Flexbox Playground 13](https://railslove.github.io/react-flexbox-playground/)
+- [Flexbox Playground 14](https://flexbox.buildwithreact.com/)
+- [Flexbox Playground 15](https://quasar.dev/layout/grid/flex-playground)
