@@ -1,0 +1,1 @@
+big 0 is used to describe the performance of an algorithm
